@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PruebaRectangulo {
     public static void main(String args[]){
         Scanner input =  new Scanner(System.in);
-        Rectangulo rect1 = new Rectangulo();
+        Rectangulo2 rect1 = new Rectangulo2();
         System.out.println("Se creo un rectangulo con longitud 1.0 y anchura 1.0");
         System.out.printf("Su perimetro actual es: %.2f%n", rect1.perimetro());
         System.out.printf("Su area actual es: %.2f%n", rect1.area());
