@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "productName": "test",
+  "version": "1.0.0",
+  "description": "Primera Prueba Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "AJs",
+  "license": "MIT"
+}
